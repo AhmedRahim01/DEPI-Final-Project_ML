@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+deepface
+opencv-python-headless
+numpy
+tf-keras
+retina-face
