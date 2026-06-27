@@ -1,0 +1,12 @@
+backend/venv/
+venv/
+dataset/
+__pycache__/
+*.pyc
+*.pyd
+*.db
+.env
+*.env
+test_images/
+focusface/weights/
+*.mdl
