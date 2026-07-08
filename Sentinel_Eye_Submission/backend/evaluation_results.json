@@ -1,0 +1,22 @@
+{
+  "total_tests": 29,
+  "positive_tests": 29,
+  "negative_tests": 0,
+  "tp": 14,
+  "fp": 15,
+  "fn": 0,
+  "tn": 0,
+  "accuracy": 0.4828,
+  "precision": 0.4828,
+  "recall": 1.0,
+  "f1_score": 0.6512,
+  "top1_accuracy": 0.4828,
+  "top3_accuracy": 0.6552,
+  "false_positive_rate": 1.0,
+  "false_negative_rate": 0.0,
+  "average_search_time": 0.0,
+  "dataset_name": "RMFRD / AFDB subset",
+  "model": "FocusFace + ArcFace Ensemble",
+  "search_method": "PostgreSQL + FAISS Vector Search",
+  "last_updated": "2026-07-08 19:20:29"
+}
